@@ -14,7 +14,7 @@ input.addEventListener("input", function() {
 
         // Added .?! to offer an improved variety of sentence counting. 
         // \s* is added for the same reason, to deal with one or more whitespaces.
-        const sentenceArray = input.value.split(/[.?!]\*s/);
+        const sentenceArray = input.value.split(/[.?!]\s*/);
         sentenceCount.innerText = sentenceArray.length - 1;
 
         const paragraphArray = input.value.split(/\n\s*\n/).filter((p) => p.trim() !== "");
