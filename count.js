@@ -15,7 +15,7 @@ input.addEventListener("input", function() {
         const sentenceArray = input.value.split(/[.!]/);
         sentenceCount.innerText = sentenceArray.length - 1;
 
-        const paragraphArray = input.value.split("\n").filter((p) => p.trim() !== "");
+        const paragraphArray = input.value.split("/\n").filter((p) => p.trim() !== "");
         paragraphCount.innerText = paragraphArray.length;
    }
 
