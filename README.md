@@ -2,7 +2,7 @@
 
 <h6>A small vanilla JS characters, words and more counting program !</h6>
 
-The counting element is centered and aligned on the page horizontally, through display: flex.
+-The counting element is centered and aligned on the page horizontally, through (CSS)display: flex.
 
 Update Jan. 15th '24:</br>
 
