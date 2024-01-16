@@ -1,6 +1,6 @@
 <h2>Word / Sentence / Paragraph / Character count program</h2>
 
-<h6>A small vanilla JS characters, words and more counting program !</h6>h6>
+<h6>A small vanilla JS characters, words and more counting program !</h6>
 
 The counting element is centered and aligned on the page horizontally, through display: flex.
 
