@@ -5,8 +5,7 @@
 -The counting element is centered and aligned on the page horizontally and vertically, through (CSS) display: flex.
 
 Update Jan. 15th '24:</br>
-
-Added regular expressions to deal with:</br>
+Added further regular expressions to deal with:</br>
   -spaces</br>
   -dots</br>
   -question marks</br>
