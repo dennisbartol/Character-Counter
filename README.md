@@ -13,3 +13,4 @@ Added regular expressions to deal with:</br>
 
 Update Jan. 17th '24 :</br>
 Added a single delimiter to deal with multiple punctuation marks.</br>
+Applied: Plus quantifiers.</br>
