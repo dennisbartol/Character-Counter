@@ -6,7 +6,7 @@
 
 Update Jan. 15th '24:</br>
 Added regular expressions to deal with:</br>
-  -spaces</br>
-  -dots</br>
-  -question marks</br>
-  -exclamation marks</br>
+  -Spaces</br>
+  -Dots</br>
+  -Question marks</br>
+  -Exclamation marks</br>
