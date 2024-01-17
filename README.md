@@ -10,3 +10,6 @@ Added regular expressions to deal with:</br>
   -Dots</br>
   -Question marks</br>
   -Exclamation marks</br>
+
+Update Jan. 17th '24 :</br>
+Added a single delimiter to deal with multiple punctuation marks.</br>
