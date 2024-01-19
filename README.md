@@ -1,4 +1,4 @@
-<h2>Character / Paragraph / Sentence / Word count program</h2>
+<h2>Character / Paragraph / Sentence / Word counting program</h2>
 
 <h6>A small vanilla JS characters, words and more counting program !</h6>
 
