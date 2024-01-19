@@ -29,6 +29,7 @@ h3 {
     display: flex; 
     flex-direction: column;
     gap: 1rem; 
+    box-shadow: #252525 2px 2px 17px;
 }
 
 textarea { 
