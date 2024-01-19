@@ -16,6 +16,10 @@ body {
     gap: 5rem;
 }
 
+h3 { 
+    text-align: center;
+}
+
 .container { 
     width: 100%; 
     max-width: 40rem; 
