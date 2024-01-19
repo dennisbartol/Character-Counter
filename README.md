@@ -17,3 +17,5 @@ Applied: Plus quantifiers.</br>
 
 3. Update Jan. 18th '24:</br>
 Added a repetitive background-image.</br>
+Added a <h3> header.
+Added a box-shadow.
