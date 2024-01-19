@@ -14,3 +14,6 @@ Added regular expressions to deal with:</br>
 2. Update Jan. 17th '24 :</br>
 Added a single delimiter to deal with multiple punctuation marks.</br>
 Applied: Plus quantifiers.</br>
+
+3. Update Jan. 18th '24:</br>
+Added a repetitive background-image.</br>
