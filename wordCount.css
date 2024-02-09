@@ -104,6 +104,8 @@ h1 {
     gap: 0.5rem; 
     padding: 0.5rem; 
     border-top: 3px solid darkgrey;
+    max-width: 640px; 
+    width: 96%; 
 }
 
 
