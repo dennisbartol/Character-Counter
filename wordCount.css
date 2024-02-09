@@ -78,3 +78,17 @@ h1 {
     color: ghostwhite; 
     text-align: center;
 }
+
+
+@media screen and (max-width: 650px) { 
+ .container { 
+    max-width: 640px; 
+    width: 94%; 
+    background-color: ghostwhite;
+    display: flex; 
+    flex-direction: column;
+    gap: 1px; 
+    box-shadow: #252525 2px 2px 17px; 
+   }
+}
+
