@@ -94,5 +94,11 @@ h1 {
  h3 { 
      font-size: 0.75rem; 
   }
+
+    .output p {
+    font-size : 0.5rem; 
+    text-transform: uppercase; 
+    letter-spacing: 1px; 
+  } 
 }
 
