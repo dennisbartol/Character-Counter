@@ -96,6 +96,17 @@ h1 {
      font-size: 0.75rem; 
   }
     */
+
+.output-container { 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    gap: 0.5rem; 
+    padding: 0.5rem; 
+    border-top: 3px solid darkgrey;
+}
+
+
     
     .output p {
     font-size : 1rem; 
