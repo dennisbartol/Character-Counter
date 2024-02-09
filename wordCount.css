@@ -90,5 +90,9 @@ h1 {
     gap: 1px; 
     box-shadow: #252525 0px 2px 12px; 
    }
+
+ h3 { 
+     font-size: 0.75rem; 
+  }
 }
 
