@@ -8,7 +8,7 @@ const paragraphCount = document.querySelector("[data-paragraph-count]");
 input.addEventListener("input", function() {
     if (input.value) {
         // const wordsArray = input.value.split(" ").filter((word) => word !== "");
-        const wordsArray = input.value.trim().split(/\s);
+        const wordsArray = input.value.trim().split(/\s+/);
         wordCount.innerText = wordsArray.length; 
 
         characterCount.innerText = input.value.length;
@@ -35,6 +35,7 @@ input.addEventListener("input", function() {
     }
  }
 );
+
 
 
 
