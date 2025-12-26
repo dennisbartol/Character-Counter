@@ -19,3 +19,6 @@ Applied: Plus quantifiers.</br>
 Added a repetitive background-image.</br>
 Added a &lt;h3&gt; header.</br>
 Added a box-shadow.
+
+4. Update Dec. 26th, 2025:</br>
+Updated RegExp to include new lines, tabs and multiple spacing. 
