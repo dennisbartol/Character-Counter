@@ -96,7 +96,7 @@ h1 {
    max-width: 100%;
  } 
 
-.output_container {
+.output-container {
    flex-direction: column;
  } 
 } 
