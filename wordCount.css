@@ -82,7 +82,11 @@ h1 {
 
 /* Adding RSW */
 @media (max-width: 600px) {
-
+  body×{
+  gap: 2rem;
+   padding: 0.9rem;
+   height: auto;
+   } 
 
 
 } 
